@@ -26,5 +26,8 @@ FAQ:
 3. How do I sort the books?
 - Sorting is made with the buttons above the list: "by Authors", "by Year", etc.
 
-4. Is my progress saved?
+4. How do I clear the gaps fast?
+- Press "File" - "Clear" in the top menu.
+
+5. Is my progress saved?
 - The list is saved when you close the tool. If you want to be sure - press "File" - "Save" in the top menu.
