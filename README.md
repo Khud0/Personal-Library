@@ -6,6 +6,9 @@ PL allows you to store all of your books in one place for fast sorting and searc
 You can add all of the "basic" information, including the Author, Name, Publisher, Year of Publishing and similar things,
 as well as your own notes.
 
+- Warning! Do not alter/delete the Settings.xml file in the project's folder.
+- Always keep Settings.xml in the same folder as the Personal_Library.exe.
+
 FAQ:
 
 0. How do I Add / Remove a book?
